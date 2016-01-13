@@ -1,0 +1,2 @@
+# MailBaseComparator
+email database comparator
