@@ -59,5 +59,10 @@ on applique la commande
 	
 On obtient un résultat qui ressemble à cela :
 
+	monFichierEncode: 254 uniques
+	sonFichierEncode: 178 uniques
+	Common: 15432
+
+
 
 
